@@ -1,0 +1,1 @@
+https://github.com/SperkJJ/ThinkPHP5  		thinkPHP5的实现微信自动登录、微信支付、支付宝支付、Web推送、阿里云短信、极光推送、二维码生成
